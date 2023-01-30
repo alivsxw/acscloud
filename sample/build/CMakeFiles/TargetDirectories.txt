@@ -1,0 +1,3 @@
+/mnt/hgfs/lianyong/check/svn/acsv2/sample/build/CMakeFiles/rebuild_cache.dir
+/mnt/hgfs/lianyong/check/svn/acsv2/sample/build/CMakeFiles/edit_cache.dir
+/mnt/hgfs/lianyong/check/svn/acsv2/sample/build/CMakeFiles/sample_acs.dir

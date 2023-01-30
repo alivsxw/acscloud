@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../../include/acsclouddefine.h
+
+../../include/acscloudshare.h
+time.h
+-
+stdio.h
+-
+string.h
+-
+pthread.h
+-
+unistd.h
+-
+stdlib.h
+-
+acsclouddefine.h
+../../include/acsclouddefine.h
+
+/mnt/hgfs/lianyong/check/svn/acsv2/sample/sample.c
+acscloudshare.h
+/mnt/hgfs/lianyong/check/svn/acsv2/sample/acscloudshare.h
+sample.h
+/mnt/hgfs/lianyong/check/svn/acsv2/sample/sample.h
+
+/mnt/hgfs/lianyong/check/svn/acsv2/sample/sample.h
+
